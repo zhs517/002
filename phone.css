@@ -1,0 +1,52 @@
+.phone
+{
+border: 2px #000 solid;
+width: 270px;
+height: 540px;
+border-color: black;
+background-color: black;
+border-radius: 25px;
+}
+.head
+{
+	width: 150px;
+	height: 15px;
+	background: gray;
+	margin:0 auto;
+	border-radius: 30px;
+}
+.carema
+{
+	width: 10px;
+	height: 10px;
+	background: black;
+	display: inline-block;
+	float: right;
+	margin:3px auto;
+	border-radius: 50px;
+}
+.screen
+{
+	margin: 30px -200px;
+	width: 269px;
+	height: 480px;
+	background-image: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528207236730&di=0c1e459045932d00ac9f35b50dbaedda&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D239964513%2C3962281614%26fm%3D214%26gp%3D0.jpg");
+}	
+.home
+{
+	border: 2px #000 solid;
+    width: 80px;
+    height: 16px;
+    border-color: gray;
+    border-radius: 25px;
+    margin: -25px 90px;
+}
+.light
+{
+	border: 2px #000 solid;
+	width: 10px;
+	height: 10px;
+	border-color: black;
+	border-radius: 50px;
+	margin: -536px 175px;
+}
